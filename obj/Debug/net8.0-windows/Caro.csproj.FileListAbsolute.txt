@@ -1,0 +1,16 @@
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.csproj.GenerateResource.cache
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfoInputs.cache
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfo.cs
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.csproj.CoreCompileInputs.cache
+E:\SourceCode\C\Game\Caro\bin\Debug\net8.0-windows\Caro.exe
+E:\SourceCode\C\Game\Caro\bin\Debug\net8.0-windows\Caro.deps.json
+E:\SourceCode\C\Game\Caro\bin\Debug\net8.0-windows\Caro.runtimeconfig.json
+E:\SourceCode\C\Game\Caro\bin\Debug\net8.0-windows\Caro.dll
+E:\SourceCode\C\Game\Caro\bin\Debug\net8.0-windows\Caro.pdb
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.Form1.resources
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.dll
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\refint\Caro.dll
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.pdb
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
+E:\SourceCode\C\Game\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
